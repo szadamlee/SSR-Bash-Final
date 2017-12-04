@@ -29,7 +29,7 @@ SSR多用户管理一键安装，带Web查询面板，支持流量/速度等限�
 
 安装多用户：
 
-    wget -N --no-check-certificate https://www.moerats.com/usr/down/ssr.zip && unzip ssr.zip && cd SSR* && bash install.sh
+    wget -N --no-check-certificate https://raw.githubusercontent.com/szadamlee/SSR-Bash-Final/master/ssr.zip && unzip ssr.zip && cd SSR* && bash install.sh
 
 安装完成后输入`ssr`指令进行管理。
 
